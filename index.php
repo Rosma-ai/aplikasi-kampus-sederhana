@@ -7,6 +7,7 @@
     <title>Halaman Utama</title>
 </head>
 <body>
-    
+    <h3>Ini adalah judul</h3>
+    <p>Ini adalah isi artikel</p>
 </body>
 </html>
